@@ -6,17 +6,17 @@ const Team = () => {
         <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
-      <h1 className="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">OUR TEAM</h1>
-      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+      <h1 className="text-2xl font-bold title-font mb-4 text-gray-900 tracking-widest">OUR TEAM</h1>
+      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Meet the dedicated individuals driving the transformation of supply chains and sustainability at Bext360. Together, we are committed to creating a positive impact on businesses, communities, and the environment.</p>
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="p-4 lg:w-1/2">
         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/200x200"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/assets/person1.jpg"/>
           <div className="flex-grow sm:pl-8">
-            <h2 className="title-font font-medium text-lg text-gray-900">Holden Caulfield</h2>
-            <h3 className="text-gray-500 mb-3">UI Developer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 className="title-font font-medium text-lg text-gray-900">John Smith</h2>
+            <h3 className="text-gray-500 mb-3">CEO</h3>
+            <p className="mb-4">With a vision for transparent and ethical supply chains, John leads the team at Bext360. </p>
             <span className="inline-flex">
               <a className="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -39,11 +39,11 @@ const Team = () => {
       </div>
       <div className="p-4 lg:w-1/2">
         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/201x201"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/assets/person2.jpg"/>
           <div className="flex-grow sm:pl-8">
-            <h2 className="title-font font-medium text-lg text-gray-900">Alper Kamu</h2>
-            <h3 className="text-gray-500 mb-3">Designer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 className="title-font font-medium text-lg text-gray-900">Emily Johnson</h2>
+            <h3 className="text-gray-500 mb-3">CTO</h3>
+            <p className="mb-4">Emily's expertise in blockchain technology and data-driven solutions spearheads our cutting-edge platform development. </p>
             <span className="inline-flex">
               <a className="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -66,11 +66,11 @@ const Team = () => {
       </div>
       <div className="p-4 lg:w-1/2">
         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/204x204"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/assets/person3.jpg"/>
           <div className="flex-grow sm:pl-8">
-            <h2 className="title-font font-medium text-lg text-gray-900">Atticus Finch</h2>
-            <h3 className="text-gray-500 mb-3">UI Developer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 className="title-font font-medium text-lg text-gray-900">Michael Chen</h2>
+            <h3 className="text-gray-500 mb-3">Sustainability Consultant</h3>
+            <p className="mb-4">Michael's commitment to sustainability and environmental impact assessment guides our clients toward responsible practices.</p>
             <span className="inline-flex">
               <a className="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -93,11 +93,11 @@ const Team = () => {
       </div>
       <div className="p-4 lg:w-1/2">
         <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://dummyimage.com/206x206"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/assets/person4.jpg"/>
           <div className="flex-grow sm:pl-8">
-            <h2 className="title-font font-medium text-lg text-gray-900">Henry Letham</h2>
-            <h3 className="text-gray-500 mb-3">Designer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 className="title-font font-medium text-lg text-gray-900">Sophia Ramirez</h2>
+            <h3 className="text-gray-500 mb-3">Data Scientist</h3>
+            <p className="mb-4">Sophia's proficiency in data analysis and predictive modeling empowers businesses to harness valuable insights from their supply chains.</p>
             <span className="inline-flex">
               <a className="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">

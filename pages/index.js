@@ -19,8 +19,8 @@ export default function Home() {
     >
      <NavBar/>
       <Hero/>
-      <Stats/>
       <Brands/>
+      <Stats/>
       <Solutions/>
       <Features/>
       <Team/>

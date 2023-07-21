@@ -1,10 +1,16 @@
 import React from 'react'
+import Lottie from "lottie-react";
+import features from "../anim/features.json";
 
 const Features = () => {
   return (
     <div>
         <section className="text-gray-400 bg-gray-900 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-wrap">
+  <div className="flex flex-col text-center w-full mb-20">
+    
+      <h1 className="sm:text-3xl text-2xl font-bold title-font text-gray-100">USP's</h1>
+    </div>
     <div className="flex flex-wrap w-full">
       <div className="lg:w-2/5 md:w-1/2 md:pr-10 md:py-6">
         <div className="flex relative pb-12">
@@ -17,8 +23,8 @@ const Features = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">STEP 1</h2>
-            <p className="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">Comprehensive Traceability</h2>
+            <p className="leading-relaxed">Our advanced blockchain-based technology ensures end-to-end traceability.</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -31,8 +37,8 @@ const Features = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">STEP 2</h2>
-            <p className="leading-relaxed">Vice migas literally kitsch +1 pok pok. Truffaut hot chicken slow-carb health goth, vape typewriter.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">Sustainability Excellence</h2>
+            <p className="leading-relaxed">At Bext360, sustainability is at the core of what we do.</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -46,8 +52,8 @@ const Features = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">STEP 3</h2>
-            <p className="leading-relaxed">Coloring book nar whal glossier master cleanse umami. Salvia +1 master cleanse blog taiyaki.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">Configurable Solutions</h2>
+            <p className="leading-relaxed">Our SaaS platform offers configurable solutions tailored to your industry and business needs.</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -61,8 +67,8 @@ const Features = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">STEP 4</h2>
-            <p className="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">Data-Driven Insights</h2>
+            <p className="leading-relaxed">Unlock the power of data with our comprehensive business intelligence tools.</p>
           </div>
         </div>
         <div className="flex relative">
@@ -73,12 +79,16 @@ const Features = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">FINISH</h2>
-            <p className="leading-relaxed">Pitchfork ugh tattooed scenester echo park gastropub whatever cold-pressed retro.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">Expertise and Trust</h2>
+            <p className="leading-relaxed">With a track record of successful implementations and a team of industry experts.</p>
           </div>
         </div>
       </div>
-      <img className="lg:w-3/5 md:w-1/2 object-cover object-center rounded-lg md:mt-0 mt-12" src="https://dummyimage.com/1200x500" alt="step"/>
+      {/* <img className="lg:w-3/5 md:w-1/2 object-cover object-center rounded-lg md:mt-0 mt-12" src="https://dummyimage.com/1200x500" alt="step"/>
+       */}
+       <div className='lg:w-3/5 md:w-1/2'>
+       <Lottie className=' w-full' animationData={features} loop={true} />
+       </div>
     </div>
   </div>
 </section>
