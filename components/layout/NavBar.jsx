@@ -24,7 +24,7 @@ export default function NavBar() {
     // { name: 'Resignation', href: '/resignation', current: router.pathname.includes("/resignation")  },
   ]
   return (
-    <Disclosure as="nav" className="bg-white/60 backdrop-blur-xl sticky top-0 left-0 z-40 w-full shadow-lg ">
+    <Disclosure as="nav" className="bg-white/70 backdrop-blur-3xl fixed top-0 left-0 z-40 w-full shadow-lg ">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
