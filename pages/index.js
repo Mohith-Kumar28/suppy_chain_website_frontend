@@ -9,6 +9,7 @@ import ContactUs from '@/components/ContactUs'
 import Footer from '@/components/layout/Footer'
 import Stats from '@/components/Stats'
 import NavBar from '@/components/layout/NavBar'
+import Faq from '@/components/Faq'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -24,6 +25,7 @@ export default function Home() {
       <Solutions/>
       <Features/>
       <Team/>
+      <Faq/>
       <ContactUs/>
       <Footer/>
     </main>
