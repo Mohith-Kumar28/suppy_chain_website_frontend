@@ -6,7 +6,7 @@ const Features = () => {
   return (
     <div>
         <section className="text-gray-400 bg-gray-900 body-font">
-  <div className="container px-5 py-24 mx-auto flex flex-wrap">
+  <div className="max-w-5xl px-5 py-24 mx-auto flex flex-wrap">
   <div className="flex flex-col text-center w-full mb-20">
     
       <h1 className="sm:text-3xl text-2xl font-bold title-font text-gray-100">USP's</h1>
