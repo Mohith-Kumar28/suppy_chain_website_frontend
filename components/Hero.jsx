@@ -26,7 +26,7 @@ const Hero = () => {
 
 
 
-<section className="text-gray-400 bg-gray-900 body-font">
+<section className="text-gray-400 bg-gray-900 body-font rounded-b-[60px] ">
   <div className="container mx-auto flex px-5 pb-24 items-center justify-center flex-col">
 
   <div className=" w-2/5 max-h-[65vh] rounded-b-3xl border-x-8 border-b-8 border-gray-700 overflow-hidden">
