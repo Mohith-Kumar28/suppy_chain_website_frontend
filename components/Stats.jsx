@@ -47,7 +47,7 @@ const links = [
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">Work with us</h2>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-            At Bext360, we are always on the lookout for talented individuals who share our passion for transforming supply chains and making a positive impact on the world. If you are driven by innovation and sustainability, we invite you to explore career opportunities with us.
+            At Boujee, we are always on the lookout for talented individuals who share our passion for transforming supply chains and making a positive impact on the world. If you are driven by innovation and sustainability, we invite you to explore career opportunities with us.
             </p>
           </div>
           <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">

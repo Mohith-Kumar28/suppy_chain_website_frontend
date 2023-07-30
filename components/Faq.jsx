@@ -4,23 +4,23 @@ import { ChevronUpIcon } from '@heroicons/react/20/solid'
 export default function Faq() {
     const ques=[
         {
-            que:"What industries does Bext360's platform cater to?",
-            ans:"Bext360's platform is versatile and applicable to various industries. Our solutions are tailored to support supply chains dealing with coffee, seafood, timber, minerals, cotton, palm oil, and more. Whether you are a producer, manufacturer, or retailer, our technology provides comprehensive traceability and sustainability metrics."
+            que:"What industries does Boujee's platform cater to?",
+            ans:"Boujee's platform is versatile and applicable to various industries. Our solutions are tailored to support supply chains dealing with coffee, seafood, timber, minerals, cotton, palm oil, and more. Whether you are a producer, manufacturer, or retailer, our technology provides comprehensive traceability and sustainability metrics."
         },
         {
-            que:"How does Bext360 ensure the authenticity of supply chain data?",
+            que:"How does Boujee ensure the authenticity of supply chain data?",
             ans:"We employ blockchain technology to guarantee the authenticity and immutability of supply chain data. Each step in the supply chain is recorded on the blockchain, creating a tamper-proof and transparent ledger. This ensures that all data, from origin to consumer, is trustworthy and can be audited for accuracy."
         },
         {
-            que:"Can Bext360's platform be integrated with existing systems?",
-            ans:"Yes, absolutely. Bext360's SaaS platform offers configurable solutions that can be seamlessly integrated with existing systems. We provide APIs that enable easy embedding into websites, supply chain management systems, point-of-sale systems, and more, ensuring a smooth integration process."
+            que:"Can Boujee's platform be integrated with existing systems?",
+            ans:"Yes, absolutely. Boujee's SaaS platform offers configurable solutions that can be seamlessly integrated with existing systems. We provide APIs that enable easy embedding into websites, supply chain management systems, point-of-sale systems, and more, ensuring a smooth integration process."
         },
         {
-            que:"What sets Bext360 apart from other traceability solutions?",
-            ans:"Bext360 stands out for its comprehensive and measurable accountability. Our platform offers unparalleled traceability across supply chains, providing transparent insights from producer to consumer. Moreover, we prioritize sustainability and deploy our technology in emerging economies, creating a positive impact on local communities."
+            que:"What sets Boujee apart from other traceability solutions?",
+            ans:"Boujee stands out for its comprehensive and measurable accountability. Our platform offers unparalleled traceability across supply chains, providing transparent insights from producer to consumer. Moreover, we prioritize sustainability and deploy our technology in emerging economies, creating a positive impact on local communities."
         },
         {
-            que:"Does Bext360 offer partnership opportunities?",
+            que:"Does Boujee offer partnership opportunities?",
             ans:"Yes, we believe in the power of collaboration to drive positive change. If you are interested in exploring partnership opportunities, joint ventures, or collaborative projects, we would be delighted to discuss potential collaborations."
         }
     ]

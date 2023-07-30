@@ -7,7 +7,7 @@ const ContactUs = () => {
   <div className="max-w-5xl px-5 py-24 mx-auto flex flex-wrap items-center">
     <div className="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
       <h1 className="title-font font-medium text-3xl text-white">Contact Us</h1>
-      <p className="leading-relaxed mt-4">We appreciate your interest in Bext360 and are eager to connect with you. For any inquiries, collaboration requests, or further information about our supply chain traceability and sustainability solutions, please don't hesitate to contact us.</p>
+      <p className="leading-relaxed mt-4">We appreciate your interest in Boujee and are eager to connect with you. For any inquiries, collaboration requests, or further information about our supply chain traceability and sustainability solutions, please don't hesitate to contact us.</p>
     </div>
     <div className="lg:w-2/6 md:w-1/2 bg-gray-800 bg-opacity-50 rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
       {/* <h2 className="text-white text-lg font-medium title-font mb-5">Sign Up</h2> */}

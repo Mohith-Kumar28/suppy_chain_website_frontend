@@ -38,7 +38,7 @@ const Features = () => {
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">Sustainability Excellence</h2>
-            <p className="leading-relaxed">At Bext360, sustainability is at the core of what we do.</p>
+            <p className="leading-relaxed">At Boujee, sustainability is at the core of what we do.</p>
           </div>
         </div>
         <div className="flex relative pb-12">

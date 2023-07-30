@@ -11,7 +11,7 @@ const Hero = () => {
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-bold text-gray-50">Bringing Unparalleled Transparency and Sustainability to Supply Chains
   
       </h1>
-      <p className="mb-8 leading-relaxed font-medium">At Bext360, we revolutionize supply chain management with cutting-edge technology and a relentless commitment to transparency.</p>
+      <p className="mb-8 leading-relaxed font-medium">At Boujee, we revolutionize supply chain management with cutting-edge technology and a relentless commitment to transparency.</p>
       <div className="flex justify-center">
         <button className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Button</button>
         <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
@@ -35,7 +35,7 @@ const Hero = () => {
 
     {/* <div className="text-center lg:w-2/3 w-full">
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Bringing Unparalleled Transparency and Sustainability to Supply Chains</h1>
-      <p className="leading-relaxed mb-8">At Bext360, we revolutionize supply chain management with cutting-edge technology and a relentless commitment to transparency.</p>
+      <p className="leading-relaxed mb-8">At Boujee, we revolutionize supply chain management with cutting-edge technology and a relentless commitment to transparency.</p>
       <div className="flex justify-center">
         <button className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Button</button>
         <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">Button</button>
@@ -46,7 +46,7 @@ const Hero = () => {
   <div className="max-w-4xl px-5 pt-12 mx-auto flex items-center md:flex-row flex-col">
     <div className="flex flex-col md:pr-10 md:mb-0 mb-6 pr-0 w-full md:w-auto md:text-left text-center">
       <h1 className="md:text-4xl text-2xl font-bold title-font text-white">Bringing Unparalleled <span className='text-green-500'>Transparency</span> and <span className='text-green-500'> Sustainability</span> to Supply Chain</h1>
-      <h2 className=" text-gray-400 tracking-widest  title-font mt-2">At Bext360, we revolutionize supply chain management with cutting-edge technology and a relentless commitment to transparency.</h2>
+      <h2 className=" text-gray-400 tracking-widest  title-font mt-2">At Boujee, we revolutionize supply chain management with cutting-edge technology and a relentless commitment to transparency.</h2>
     </div>
     <div className="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
       <button className="bg-gray-800 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-700 hover:bg-opacity-50 focus:outline-none">

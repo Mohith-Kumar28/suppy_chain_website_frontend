@@ -46,7 +46,7 @@ const Solutions = () => {
             <h2 className="text-gray-900 text-lg title-font font-medium">Sustainability Measurement</h2>
           </div>
           <div className="flex-grow">
-            <p className="leading-relaxed text-base">At Bext360, we are committed to sustainability. Our platform provides quantifiable measurements for the environmental and social impact of your supply chain. By tracking key sustainability metrics, such as carbon footprint, water usage, fair labor practices, and more, you can make informed decisions and drive positive change. Join us in creating a more sustainable future for our planet.</p>
+            <p className="leading-relaxed text-base">At Boujee, we are committed to sustainability. Our platform provides quantifiable measurements for the environmental and social impact of your supply chain. By tracking key sustainability metrics, such as carbon footprint, water usage, fair labor practices, and more, you can make informed decisions and drive positive change. Join us in creating a more sustainable future for our planet.</p>
             {/* <a className="mt-3 text-green-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
